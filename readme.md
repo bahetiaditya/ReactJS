@@ -1,0 +1,1 @@
+This repository contains practices and learnings of ReactJS.
